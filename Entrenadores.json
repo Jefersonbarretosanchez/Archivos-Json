@@ -1,0 +1,31 @@
+[{
+  "_id": 1,
+  "Nombre": "Juan Marcos Gonzales",
+  "fecha nacimiento": "1997-05-21",
+  "Equipo": "Los faroles"
+},{
+  "_id": 2,
+  "Nombre": "Pedro Andres Castellanos",
+  "fecha nacimiento": "1995-05-12",
+  "Equipo": "Casuarito"
+},{
+  "_id": 3,
+  "Nombre": "Carlos Arturo Gonzales",
+  "fecha nacimiento": "1988-09-01",
+  "Equipo": "Colfatima"
+},{
+  "_id": 4,
+  "Nombre": "Camilo Rojas Garcia",
+  "fecha nacimiento": "1988-02-11",
+  "Equipo": "Insuperables"
+},{
+  "_id": 5,
+  "Nombre": "Wilmar Andres Benavides",
+  "fecha nacimiento": "1978-12-28",
+  "Equipo": "Los del barrio"
+},{
+  "_id": 6,
+  "Nombre": "Juan Camilo Rojas",
+  "fecha nacimiento": "1991-02-28",
+  "Equipo": "Los troncos"
+}]
